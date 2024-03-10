@@ -9,3 +9,4 @@ cameras,phone,etc.), in order to make the maintenance process efficient. The
 infrastructure management is enhanced by reducing the reliance on manual
 inspections and enabling timely and targeted repairs to ensure safe and
 well-maintained road networks.
+- Video link-(coming soon)
